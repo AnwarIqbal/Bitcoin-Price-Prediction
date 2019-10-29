@@ -1,4 +1,4 @@
-Time series regression algorithms for Bitcoin price predictions.
+# Time series regression algorithms for Bitcoin price predictions.
 
 <image src = "images/Heatmap.PNG">
   
